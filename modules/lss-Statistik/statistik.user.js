@@ -4,7 +4,7 @@
     html += '<div class="col-md-8">';
     html += '<div class="panel panel-default panel-chart pie" id="building-s_outer">';
     html += '<div class="panel-heading">';
-    html += '<h3 class="panel-title"><i class="fa fa-building"></i> Gebäudeübersicht</h3>';
+    html += '<h3 class="panel-title"><i class="fa fa-building"></i> Gebäudeüber</h3>';
     html += '</div>';
     html += '<canvas class="panel-body" id="buildings_char">';
     html += '</div>';
