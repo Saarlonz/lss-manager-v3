@@ -6,7 +6,7 @@
         hourIdentifier: 'Std.',
         timeWithHoursRegex: /([0-9]{2}) Std. ([0-9]{2}) Min. ([0-9]{2}) Sek./i,
         leastTime: 'Mindestens <strong>{0}</strong>',
-        duration: 'Dauer {0}',
+        duration: 'Dauer: {0}',
         missingVehicles1: 'Für die folgenden Fahrzeuge konnte keine Anfahrtsdauer ermittelt werden:',
         missingVehicles2: 'Möglicherweise sind sie nicht verfügbar oder nicht mit Zeiten aufgelistet.',
         missingVehicles3: 'Fehler beim Berechnen der Anfahrtszeiten. Möglicherweise sind Fahrzeuge nicht verfügbar oder nicht mit Zeiten aufgelistet.',
